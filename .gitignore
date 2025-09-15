@@ -15,8 +15,6 @@ logs/
 distilbert_project_types/
 
 
-
-
 # Large model/data files
 *.parquet
 *.pt
